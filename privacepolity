@@ -1,88 +1,172 @@
-# Privacy Policy for SKI YETI
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – SKI YETI</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      color: #222;
+      background-color: #ffffff;
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    a {
+      color: #0066cc;
+      word-break: break-word;
+    }
+    hr {
+      margin: 30px 0;
+    }
+  </style>
+</head>
+<body>
 
-**Last updated:** January 2026
+<h1>Privacy Policy for SKI YETI</h1>
 
-Dany23 ("we", "our", or "us") operates the mobile game **SKI YETI** (the "App"). This Privacy Policy explains how information is collected, used, and disclosed when you use our App.
+<p><strong>Last updated:</strong> January 2026</p>
 
+<p>
+Dany23 ("we", "our", or "us") operates the mobile game <strong>SKI YETI</strong> (the "App").
+This Privacy Policy explains how information is collected, used, and disclosed when you use our App.
+</p>
+
+<p>
 By downloading or using the App, you agree to the collection and use of information in accordance with this policy.
+</p>
 
----
+<hr>
 
-## 1. Information We Collect
+<h2>1. Information We Collect</h2>
 
-### 1.1 Personal Information
+<h3>1.1 Personal Information</h3>
+<p>
+We do <strong>not</strong> collect any personal information directly from users.
+This means we do not ask for or store names, email addresses, phone numbers, or account details.
+</p>
 
-We do **not** collect any personal information directly from users. This means we do not ask for or store names, email addresses, phone numbers, or account details.
+<h3>1.2 Automatically Collected Information</h3>
+<p>
+SKI YETI <strong>does not collect, store, or process any user data directly</strong>.
+</p>
 
-### 1.2 Automatically Collected Information
+<p>The App itself does not collect:</p>
+<ul>
+  <li>Personal information</li>
+  <li>Usage analytics</li>
+  <li>Location data</li>
+  <li>Account or login data</li>
+</ul>
 
-SKI YETI **does not collect, store, or process any user data directly**.
+<p>
+The App only displays advertisements through third-party services (such as Google AdMob).
+Any data that may be processed (for example, Advertising ID or basic device information)
+is handled <strong>entirely by the advertising SDK</strong>, not by the developer,
+and is used only for the purpose of serving ads.
+</p>
 
-The App itself does not collect:
+<p>The App is built using modern Android SDK versions:</p>
+<ul>
+  <li><strong>Compile SDK Version:</strong> 36</li>
+  <li><strong>Target SDK Version:</strong> 36</li>
+  <li><strong>Minimum SDK Version:</strong> 24 (Android 7.0 Nougat)</li>
+</ul>
 
-* Personal information
-* Usage analytics
-* Location data
-* Account or login data
-
-The App only displays advertisements through third-party services (such as Google AdMob). Any data that may be processed (for example, Advertising ID or basic device information) is handled **entirely by the advertising SDK**, not by the developer, and is used only for the purpose of serving ads.
-
-The App is built using modern Android SDK versions:
-
-* **Compile SDK Version:** 36
-* **Target SDK Version:** 36
-* **Minimum SDK Version:** 24 (Android 7.0 Nougat)
-
+<p>
 These SDK levels ensure compliance with the latest Android privacy and security requirements.
+</p>
 
----
+<hr>
 
-## 2. Advertising
+<h2>2. Advertising</h2>
+<p>
+SKI YETI displays ads provided by third-party advertising networks, such as <strong>Google AdMob</strong>.
+</p>
 
-SKI YETI displays ads provided by third-party advertising networks, such as **Google AdMob**.
-
+<p>
 These services may use technologies like cookies or unique device identifiers to show ads that are relevant to users.
+</p>
 
+<p>
 You can learn more about how Google uses data from apps that use its services here:
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+</p>
 
----
+<p>
+<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">
+https://policies.google.com/privacy
+</a>
+</p>
 
-## 3. Children’s Privacy
+<hr>
 
-SKI YETI is a casual game intended for a **general audience**, including children and adults.
+<h2>3. Children’s Privacy</h2>
+<p>
+SKI YETI is a casual game intended for a <strong>general audience</strong>, including children and adults.
+</p>
 
-We do not knowingly collect personal information from children under the age of 13. Any data collected by advertising services is handled in accordance with applicable child privacy laws and Google Play policies.
+<p>
+We do not knowingly collect personal information from children under the age of 13.
+Any data collected by advertising services is handled in accordance with applicable child privacy laws
+and Google Play policies.
+</p>
 
+<p>
 If you believe that a child has provided personal information, please contact us and we will take appropriate action.
+</p>
 
----
+<hr>
 
-## 4. Data Sharing
-
+<h2>4. Data Sharing</h2>
+<p>
 We do not sell, trade, or rent users’ personal information.
+</p>
 
-Information may be shared only with third-party service providers (such as advertising partners) strictly for operating and improving the App.
+<p>
+Information may be shared only with third-party service providers
+(such as advertising partners) strictly for operating and improving the App.
+</p>
 
----
+<hr>
 
-## 5. Data Security
+<h2>5. Data Security</h2>
+<p>
+We value your trust and strive to use commercially acceptable means of protecting information.
+However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
+</p>
 
-We value your trust and strive to use commercially acceptable means of protecting information. However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
+<hr>
 
----
+<h2>6. Changes to This Privacy Policy</h2>
+<p>
+We may update this Privacy Policy from time to time.
+Any changes will be posted on this page.
+</p>
 
-## 6. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted on this page.
-
+<p>
 You are advised to review this Privacy Policy periodically for any updates.
+</p>
 
----
+<hr>
 
-## 7. Contact Us
-
+<h2>7. Contact Us</h2>
+<p>
 If you have any questions or concerns about this Privacy Policy, you can contact us at:
+</p>
 
-**Developer:** Dany23
-**Email:** [appdevs23@gmail.com](mailto:appdevs23@gmail.com)
+<p>
+<strong>Developer:</strong> Dany23<br>
+<strong>Email:</strong>
+<a href="mailto:appdevs23@gmail.com">appdevs23@gmail.com</a>
+</p>
+
+</body>
+</html>
